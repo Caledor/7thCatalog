@@ -10,11 +10,11 @@
         <DownloadSize>519000</DownloadSize>
         <Link>iros://GDrive/1mj9SBjcdOIil2VL9SqaCa1pdtc4ACsxh</Link>
         <Link>iros://MegaSharedFolder/folder/b2xRla4J#9RgfWfyRkwwDyBh0qay0vA,SuwWyIqT,Caledor's Italian Retranslation.iro</Link>
-        <Version>1.62</Version>
-        <ReleaseDate>2022-11-27</ReleaseDate>
+        <Version>1.63</Version>
+        <ReleaseDate>2024-01-20</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/JUkidjm.png</PreviewImage>
-        <ReleaseNotes>v1.62: Various bugfix</ReleaseNotes>
+        <ReleaseNotes>v1.63: UI bugfix</ReleaseNotes>
       </LatestVersion>
       <MetaVersion>1.00</MetaVersion>
       <Name>Caledor Italian ReTranslation</Name>
